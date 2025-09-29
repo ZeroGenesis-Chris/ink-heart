@@ -1,0 +1,14 @@
+name: CI
+on:
+  pull_request:
+    branches: [develop, main]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: chickensoft-games/setup-godot@v1
+        with:
+          version: 4.2.1
+      - run: godot --headless --import
+      - run: godot --headless --run-tests  # if you write any

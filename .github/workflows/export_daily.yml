@@ -1,0 +1,2 @@
+schedule:
+  - cron: '0 2 * * *'   # 02:00 UTC

@@ -1,0 +1,4 @@
+ID,Name,Type,Cost,PlayEffect,InkPassive,Rarity,ArtNote,UnlockCost
+Strike_v1,Strike,Attack,1,Deal 6 damage,+,Common,Pixel 32x32,0
+Defend_v1,Defend,Skill,1,Gain 5 Block,+,Common,Pixel 32x32,0
+Heart_v1,Heart,Heart,0,Draw 1 card,+,Token,Red back,0

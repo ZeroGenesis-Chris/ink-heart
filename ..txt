@@ -1,0 +1,6 @@
+| Task                    | Command                                                                                             |
+| ----------------------- | --------------------------------------------------------------------------------------------------- |
+| start new card          | `git fb card-name`                                                                                  |
+| pull latest integration | `git sw`                                                                                            |
+| publish PR              | `git push origin card-name` → open PR → squash                                                      |
+| release                 | `git checkout main && git merge --ff-only develop && git tag vX.Y.Z && git push origin main --tags` |
