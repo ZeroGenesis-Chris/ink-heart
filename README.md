@@ -39,12 +39,13 @@ scripts/ → Helper scripts (exporters, validators, tools)
 - Git + LFS (for large art/audio assets)  
 
 ### Clone  
-        ```bash```
+```
+                bash
 git clone https://github.com/ZeroGenesis-Chris//ink-heart.git
 cd ink-heart/godot
 Run
 Open the godot/ folder in Godot 4.2 and press Play.
-
+```
 
 🔄 Development Workflow
 
@@ -88,4 +89,5 @@ TBD — currently private project.
 🖋 Credits
 Engine: Godot 4.2
 Special Thanks: Open-source tools & community
+
 
