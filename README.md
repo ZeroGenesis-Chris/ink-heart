@@ -40,7 +40,6 @@ scripts/ → Helper scripts (exporters, validators, tools)
 
 ### Clone  
 ```
-                bash
 git clone https://github.com/ZeroGenesis-Chris//ink-heart.git
 cd ink-heart/godot
 Run
@@ -89,5 +88,6 @@ TBD — currently private project.
 🖋 Credits
 Engine: Godot 4.2
 Special Thanks: Open-source tools & community
+
 
 
